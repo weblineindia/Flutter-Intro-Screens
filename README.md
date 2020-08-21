@@ -11,6 +11,7 @@ A Flutter based Reusable Intro Screens component that provides Application Start
 - [Usage](#usage)
 - [Methods](#methods)
 - [Want to Contribute?](#want-to-contribute)
+- [Need Help / Support?](#need-help) 
 - [Collection of Components](#collection-of-Components)
 - [Changelog](#changelog)
 - [License](#license)
